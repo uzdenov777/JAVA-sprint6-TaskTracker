@@ -58,4 +58,5 @@ public interface TaskManager {
     int getNewId();
 
     ArrayList<Task> getHistory();
+
 }
